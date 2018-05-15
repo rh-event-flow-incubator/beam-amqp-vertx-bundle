@@ -1,0 +1,1 @@
+# beam-amqp-vertx-bundle
